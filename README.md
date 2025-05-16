@@ -1,2 +1,2 @@
 # CVPartsRecognition
-AutoDetect parts by Computer Vision
+AutoDetect parts by Computer Vision technology
